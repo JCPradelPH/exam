@@ -1,4 +1,4 @@
-# MPA LLC Applicant Examination
+# My Applicant Examination
 
 Included in this repository are two folders containing the two parts of the exam. Kindly read the instructions carefully.
 
